@@ -1,0 +1,58 @@
+.conta{
+    width: 100% ;
+    display: flex   ;
+    flex-flow:row wrap;
+    justify-content: center;
+}
+.card{
+    height: 430px !important;
+    width: 300px !important;
+    margin-top: 10px;
+    margin: 20px;
+    background-color: rgb(169, 179, 202);
+}
+.card-body img{
+    height: 200px !important;
+    width: 100% !important;
+ 
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+    #pos{
+        margin-top: 90px;
+    }
+    
+    
+}
+@media (min-width:1020px) {
+    #AddPost{
+        right:15px !important;
+    }
+    
+    
+}
+
